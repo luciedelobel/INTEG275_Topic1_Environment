@@ -1,4 +1,4 @@
-# INTEG 275 — Final AI-for-Science Challenge: {TOPIC NAME}
+# INTEG 275 — Final AI-for-Science Challenge: Topic 1 - Environment
 
 This repository is the starting point for your group's final project.
 Unlike the warm-up exercise, there is no single correct answer here.
@@ -224,10 +224,25 @@ Keep the repository **Private**. Do not share it with other groups.
 
 {Replace this section for each topic.}
 
-- **Dataset:**
-- **Source and link:**
+- **Datasets:** NASA GISTEMP global surface temperature anomaly (GLB.Ts+dSST.csv)
+  and NOAA Mauna Loa atmospheric CO2 record (co2_mm_mlo.csv)
+  
+- **Source and link:** https://data.giss.nasa.gov/gistemp/data_v4.html
+  “Global-mean monthly, seasonal, and annual means”
+  and https://gml.noaa.gov/ccgg/trends/data.html “Mauna Loa CO2 monthly mean data”
+  
 - **Collected by / citation:**
+  GISTEMP Team, 2026: GISS Surface Temperature Analysis (GISTEMP), version 4.
+  NASA Goddard Institute for Space Studies. Dataset accessed 2026-09-17 at https://data.giss.nasa.gov/gistemp/.
+  Lenssen, N., G.A. Schmidt, M. Hendrickson, P. Jacobs, M. Menne, and R. Ruedy, 2024: A GISTEMPv4 observational uncertainty ensemble.
+  J. Geophys. Res. Atmos., 129, no. 17, e2023JD040179, doi:10.1029/2023JD040179.
+  
+  Dr. Xin Lan, NOAA/GML (gml.noaa.gov/ccgg/trends/)
+  and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).
+  
 - **Licence or terms of use:**
+  Graphics from these GISTEMP pages are subject to NASA Image and Media guidance.
+  Please credit "NASA's Goddard Institute for Space Studies" or, if space is limited, "NASA GISS/GISTEMP".
 
 The data files in this repository are a fixed copy provided for this
 course. Do not download replacement data and do not edit the data files.
