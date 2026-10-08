@@ -223,7 +223,7 @@ Keep the repository **Private**. Do not share it with other groups.
 ## About the data
 
 - **Datasets:** NASA GISTEMP global surface temperature anomaly (GLB.Ts+dSST.csv)
-  and NOAA Mauna Loa atmospheric CO2 record (co2_mm_mlo.csv)
+  and NOAA Mauna Loa atmospheric CO2 record (co2_mm_mlo.csv).
   
 - **Source and link:** https://data.giss.nasa.gov/gistemp/data_v4.html
   “Global-mean monthly, seasonal, and annual means”
