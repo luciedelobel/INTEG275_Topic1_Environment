@@ -17,6 +17,8 @@ AGENTS.md                        instructions Copilot reads automatically
 ANALYSIS_LOG.md                  your group's shared record of decisions
                                  and results — you will edit this often
 README.md                        this file
+GROUP_CONTRACT.md                sets expectations for the group work, records
+                                 weekly goals and assigning tasks between members
 requirements.txt                 the Python packages this project needs
 .gitignore                       tells Git which files not to save
 ```
