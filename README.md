@@ -222,8 +222,6 @@ Keep the repository **Private**. Do not share it with other groups.
 
 ## About the data
 
-{Replace this section for each topic.}
-
 - **Datasets:** NASA GISTEMP global surface temperature anomaly (GLB.Ts+dSST.csv)
   and NOAA Mauna Loa atmospheric CO2 record (co2_mm_mlo.csv)
   
