@@ -12,7 +12,7 @@ working routine.
 ## What's in this repository
 
 ```
-{your topic's CSV data file(s)}  the dataset (see "About the data")
+GLB.Ts+dSST.csv, co2_mm_mlo.csv  the dataset (see "About the data")
 AGENTS.md                        instructions Copilot reads automatically
 ANALYSIS_LOG.md                  your group's shared record of decisions
                                  and results — you will edit this often
